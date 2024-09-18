@@ -1,0 +1,21 @@
+div {
+    border: 2px solid black;
+    margin-bottom: 4em;
+    padding: 2em 3em;
+}
+
+.content-box {
+    width: 300px;
+    padding: 20px;
+    border: 5px solid #333;
+    margin-bottom: 20px;
+    background: #eee;
+}
+
+.border-box {
+    width: 300px;
+    padding: 20px;
+    border: 5px solid #333;
+    margin-bottom: 20px;
+    background: #eee;
+}
