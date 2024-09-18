@@ -1,0 +1,18 @@
+div {
+    border: 2px solid black;
+    margin-bottom: 4em;
+    padding: 3em 4em;
+}
+
+.uniform {
+    margin: 40px;
+}
+
+.non-uniform {
+    margin:  10 px 30px 20px 40px;
+    order: top right bottom left;
+}
+
+.percentage {
+    padding: 5%;
+}
