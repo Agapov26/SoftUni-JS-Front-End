@@ -1,0 +1,18 @@
+body {
+    font-family: Lato;
+}
+
+.accordion {
+    width: 70%;
+    margin: 30px auto ;
+}
+
+.accordion details {
+    border: 1px solid silver;
+    padding: 20px;
+}
+
+.accordion details summary {
+    font-weight: 700;
+    cursor: pointer;
+}
